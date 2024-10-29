@@ -30,4 +30,31 @@
 *.facebook.com
 *.fbcdn.net
 
-graph.facebook.com
+game huawei
+*.hihonorcloud.com
+*.hispace.hihonorcloud.com
+
+media player candy crush
+*.midasplayer.cloud
+*.king.com
+
+torrent
+*.thepiratebay.org
+*.1337x.to
+*.rarbg.to
+*.yts.mx
+*.torrentz2.eu
+*.limetorrents.info
+*.torrentdownloads.me
+*.kickasstorrents.to
+*.extratorrent.cc
+*.torlock.com
+*.zooqle.com
+*.isohunt.to
+*.seedpeer.me
+*.bt-scene.cc
+*.monova.org
+*.skytorrents.to
+*.openbittorrent.com
+*.publicbt.com
+*.demonoid.is
