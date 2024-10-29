@@ -68,3 +68,9 @@ jtvnw.net
 *.tigosports.gt
 *.www.tigosports.gt
 *.api.tigosports.gt
+
+#pluto Tv
+*.pluto.tv
+
+#tubi
+*.tubitv.com
