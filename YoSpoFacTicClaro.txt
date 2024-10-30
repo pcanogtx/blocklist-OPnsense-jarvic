@@ -75,3 +75,5 @@ Streaming Multimedia
 
 *.501stpathfinders.com
 *.jango.com
+
+*.opera.com
