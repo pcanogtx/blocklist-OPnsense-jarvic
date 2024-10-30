@@ -68,3 +68,8 @@ Musica
 chat en tiempo real, juegos multijugadores
 *.pusher.com
 *.pusherapp.com
+
+Streaming Multimedia
+*.cdn107.com
+
+
