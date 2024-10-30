@@ -74,3 +74,4 @@ Streaming Multimedia
 *.radioairplay.com
 
 *.501stpathfinders.com
+*.jango.com
