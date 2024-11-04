@@ -16,7 +16,7 @@
 
 #twich
 *.ext-twitch.tv
-jtvnw.net
+*.jtvnw.net
 *.ttvnw.net
 *.ttvnw.net
 *.twitch.map.fastly.net
@@ -54,6 +54,7 @@ jtvnw.net
 
 #amazon prime video
 *.amazonvideo.com
+*.primevideo.com
 
 #paramount plus
 *.paramountplus.com
@@ -66,7 +67,6 @@ jtvnw.net
 
 #tigo sports
 *.tigosports.gt
-*.www.tigosports.gt
 *.api.tigosports.gt
 
 #pluto Tv
@@ -74,3 +74,18 @@ jtvnw.net
 
 #tubi
 *.tubitv.com
+
+#funimation
+*.funimationnow.com
+
+#kick
+*.kick.com
+
+#trovo
+*.trovo.live
+
+#dlive
+*.dlive.org
+
+#sooplive
+my.sooplive.co.kr
