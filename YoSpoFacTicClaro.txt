@@ -27,8 +27,6 @@
 *.ngataonga.org.nz
 *.wheelersbooks.co.nz
 
-*.facebook.com
-*.fbcdn.net
 
 game huawei
 *.hihonorcloud.com
