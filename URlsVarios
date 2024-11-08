@@ -79,6 +79,7 @@ api-partner.spotify.com
 pixel.spotify.com
 exp.wg.spotify.com
 aet.spotify.com
+edge-web.dual-gslb.spotify.com
 
 #notificaciones de facebook tiempo real
 edge-mqtt-fallback.facebook.com
