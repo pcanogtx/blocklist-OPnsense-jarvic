@@ -93,7 +93,8 @@ widevine.claromusica.com
 
 #notificaciones de facebook tiempo real
 edge-mqtt-fallback.facebook.com
-
+#facebook notificaciones de chat
+chat-e2ee-mini.facebook.com
 
 
 #enrutamiento de datos a través de Google
