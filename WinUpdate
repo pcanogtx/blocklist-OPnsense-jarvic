@@ -1,7 +1,15 @@
 fe3cr.delivery.mp.microsoft.com
 
-*.wustat.windows.com #(telemetría de Windows Update)
-*.go.microsoft.com #(redireccionamiento de enlaces)
+#(telemetría de Windows Update)
+*.wustat.windows.com 
+settings-win.data.microsoft.com
+
+
+ #(notificaciones en tiempo real)
+client.wns.windows.com
+
+#(redireccionamiento de enlaces)
+*.go.microsoft.com 
 
 #No Bloquear Permanentemente (Importantes para actualizaciones):
 
