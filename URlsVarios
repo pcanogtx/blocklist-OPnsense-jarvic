@@ -69,12 +69,16 @@ sdk-events.inner-active.mobi
 assets.msn.com 
 #(contenido de MSN).
 audio-ak-spotify-com.akamaized.net 
+
+
+
 #(Spotify CDN).
 xpui.app.spotify.com
 apresolve.spotify.com
 api-partner.spotify.com
 pixel.spotify.com
 exp.wg.spotify.com
+aet.spotify.com
 
 #notificaciones de facebook tiempo real
 edge-mqtt-fallback.facebook.com
