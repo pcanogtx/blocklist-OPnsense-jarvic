@@ -83,6 +83,13 @@ edge-web.dual-gslb.spotify.com
 spotify.com
 *.spotify.com
 spclient.wg.spotify.com
+login5.spotify.com
+spclient.wg.spotify.com
+
+#claromusica
+widevine.claromusica.com
+
+
 
 #notificaciones de facebook tiempo real
 edge-mqtt-fallback.facebook.com
