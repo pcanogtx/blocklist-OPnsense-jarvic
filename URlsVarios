@@ -85,3 +85,7 @@ edge-web.dual-gslb.spotify.com
 edge-mqtt-fallback.facebook.com
 
 
+
+#enrutamiento de datos a través de Google
+tunnel.googlezip.net
+
