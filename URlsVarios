@@ -54,8 +54,7 @@ Malvare
 vekeltaizy.net
 *.vekeltaizy.net
 
-restrictmoderate.youtube.com 
-#(si deseas bloquear contenido moderado de YouTube).
+
 v10.events.data.microsoft.com 
 #(telemetría de Microsoft).
 zoomus.map.fastly.net 
