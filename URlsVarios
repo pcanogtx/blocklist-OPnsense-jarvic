@@ -60,8 +60,8 @@ v10.events.data.microsoft.com
 zoomus.map.fastly.net 
 #(si deseas restringir Zoom).
 msg.ep.b.tlu.dl.delivery.mp.microsoft.com 
-#(descargas de Microsoft no esenciales).
-beacons.gcp.gvt2.com 
+  #(descargas de Microsoft no esenciales).
+  #beacons.gcp.gvt2.com 
 #(rastro de publicidad de Google).
 sdk-events.inner-active.mobi 
 #(rastreo de publicidad móvil).
