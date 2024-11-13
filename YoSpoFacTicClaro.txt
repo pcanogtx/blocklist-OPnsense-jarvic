@@ -5,9 +5,7 @@
 
 
 
-*.claromusica.akamaized.net
-*.akamaized.net
-*.claromusica.akamaized.net
+
 
 
 
@@ -18,10 +16,7 @@
 
 
 
-*.spotify.com
-*.scdn.co
-*.audio-ak-spotify-com.akamaized.net
-*.spotifycdn.com
+
 
 
 *.ngataonga.org.nz
@@ -67,12 +62,6 @@ chat en tiempo real, juegos multijugadores
 *.pusher.com
 *.pusherapp.com
 
-Streaming Multimedia
-*.cdn107.com
-*.radioairplay.com
-
-*.501stpathfinders.com
-*.jango.com
 
 *.opera.com
 *.operavpn.com
