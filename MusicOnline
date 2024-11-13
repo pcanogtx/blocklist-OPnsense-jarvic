@@ -20,6 +20,13 @@ open.spotify.com
 
 #claromusica
 widevine.claromusica.com
+*.claromusica.akamaized.net
+*.akamaized.net
+*.claromusica.akamaized.net
+*.spotify.com
+*.scdn.co
+*.audio-ak-spotify-com.akamaized.net
+*.spotifycdn.com
 
 me streaming Multimedia
 
@@ -46,3 +53,11 @@ static.jango.com
 media.jango.com
 api.jango.com
 ads.jango.com
+
+Streaming Multimedia
+*.cdn107.com
+*.radioairplay.com
+
+*.501stpathfinders.com
+*.jango.com
+
