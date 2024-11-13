@@ -55,21 +55,6 @@ vekeltaizy.net
 *.vekeltaizy.net
 
 
-v10.events.data.microsoft.com 
-#(telemetría de Microsoft).
-zoomus.map.fastly.net 
-#(si deseas restringir Zoom).
-msg.ep.b.tlu.dl.delivery.mp.microsoft.com 
-  #(descargas de Microsoft no esenciales).
-  #beacons.gcp.gvt2.com 
-#(rastro de publicidad de Google).
-sdk-events.inner-active.mobi 
-#(rastreo de publicidad móvil).
-assets.msn.com 
-#(contenido de MSN).
-audio-ak-spotify-com.akamaized.net 
-
-
 
 #(Spotify CDN).
 xpui.app.spotify.com
