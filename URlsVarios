@@ -81,8 +81,9 @@ edge-web.dual-gslb.spotify.com
 spotify.com
 *.spotify.com
 spclient.wg.spotify.com
+litedev.us.hik-connect.com
 login5.spotify.com
-spclient.wg.spotify.com
+clienttoken.spotify.com
 
 #claromusica
 widevine.claromusica.com
@@ -97,4 +98,7 @@ chat-e2ee-mini.facebook.com
 
 #enrutamiento de datos a través de Google
 tunnel.googlezip.net
+
+
+litedev.us.hik-connect.com
 
