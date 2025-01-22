@@ -14,14 +14,8 @@ twitter.com.cdn.cloudflare.net
 
 www.linkedin.com
 static.linkedin.com
-# Utilizado para servir contenido estático como imágenes y scripts.
 media.linkedin.com
-# Alojamiento de contenido multimedia.
 ads.linkedin.com
-# Relacionado con la plataforma publicitaria de LinkedIn.
 api.linkedin.com
-# Punto de acceso para integraciones y desarrolladores.
 cdn.linkedin.com
-# Red de entrega de contenido para mejorar la velocidad de carga.
 learning.linkedin.com
-# Acceso a la plataforma de aprendizaje de LinkedIn.
