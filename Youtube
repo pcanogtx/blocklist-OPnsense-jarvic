@@ -17,3 +17,15 @@ manifest.googlevideo.com
 youtubekids.com
 www.youtubekids.com
 m.youtubekids.com
+
+# Bloqueo completo de YouTube
+*.youtube.com
+*.googlevideo.com
+*.youtubei.googleapis.com
+*.ytimg.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+*.youtube-nocookie.com
+manifest.googlevideo.com
+
