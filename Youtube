@@ -1,0 +1,19 @@
+# Dominios principales de YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+
+# Dominios para contenido multimedia y APIs
+s.ytimg.com
+ytimg.com
+youtubei.googleapis.com
+www.youtube-nocookie.com
+youtube.googleapis.com
+manifest.googlevideo.com
+*.googlevideo.com
+
+# Dominios regionales (en caso de redirección)
+youtubekids.com
+www.youtubekids.com
+m.youtubekids.com
