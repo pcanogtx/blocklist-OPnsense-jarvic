@@ -1,97 +1,53 @@
-#(Spotify CDN).
-xpui.app.spotify.com
-apresolve.spotify.com
-api-partner.spotify.com
-pixel.spotify.com
-exp.wg.spotify.com
-aet.spotify.com
-edge-web.dual-gslb.spotify.com
-spotify.com
-*.spotify.com
-spclient.wg.spotify.com
-litedev.us.hik-connect.com
-login5.spotify.com
-clienttoken.spotify.com
-litedev.us.hik-connect.com
-open.spotify.com
+! Spotify CDN
+||xpui.app.spotify.com^
+||apresolve.spotify.com^
+||api-partner.spotify.com^
+||pixel.spotify.com^
+||exp.wg.spotify.com^
+||aet.spotify.com^
+||edge-web.dual-gslb.spotify.com^
+||spotify.com^
+||spclient.wg.spotify.com^
+||login5.spotify.com^
+||clienttoken.spotify.com^
+||open.spotify.com^
 
+! Hikvision dev (aparece en su lista)
+||litedev.us.hik-connect.com^
 
+! Claro Música
+||widevine.claromusica.com^
+||claromusica.akamaized.net^
+||akamaized.net^
+||scdn.co^
+||audio-ak-spotify-com.akamaized.net^
+||spotifycdn.com^
 
+! Streaming multimedia
+||olds1.cdn107.com^
+||assets.cdn107.com^
+||media.cdn107.com^
+||static.cdn107.com^
+||artist.radioairplay.com^
+||stream.emisoras.com.gt^
+||radio.emisoras.com.gt^
+||media.emisoras.com.gt^
+||cdn.emisoras.com.gt^
+||player.emisoras.com.gt^
+||api.emisoras.com.gt^
 
-#claromusica
-widevine.claromusica.com
-*.claromusica.akamaized.net
-*.akamaized.net
-*.claromusica.akamaized.net
-*.spotify.com
-*.scdn.co
-*.audio-ak-spotify-com.akamaized.net
-*.spotifycdn.com
+! Jango streaming
+||forum.501stpathfinders.com^
+||jango.com^
+||static.jango.com^
+||media.jango.com^
+||api.jango.com^
+||ads.jango.com^
 
-me streaming Multimedia
-
-olds1.cdn107.com
-assets.cdn107.com
-media.cdn107.com
-static.cdn107.com
-artist.radioairplay.com
-stream.emisoras.com.gt
-radio.emisoras.com.gt
-media.emisoras.com.gt
-cdn.emisoras.com.gt
-player.emisoras.com.gt
-api.emisoras.com.gt
-
-forum.501stpathfinders.com
-es.jango.com
-www.jango.com
-es.jango.com
-pt.jango.com
-fr.jango.com
-de.jango.com
-static.jango.com
-media.jango.com
-api.jango.com
-ads.jango.com
-
-Streaming Multimedia
-*.cdn107.com
-*.radioairplay.com
-
-*.501stpathfinders.com
-*.jango.com
-*.emisoras.com.gt
-# Radios de Guatemala
-radio.emisoras.com.gt
-media.emisoras.com.gt
-cdn.emisoras.com.gt
-stream.emisoras.com.gt
-player.emisoras.com.gt
-api.emisoras.com.gt
-artist.radioairplay.com
-*.radioairplay.com
-olds1.cdn107.com
-assets.cdn107.com
-media.cdn107.com
-static.cdn107.com
-
-# Radios internacionales adicionales (ejemplo)
-www.jango.com
-es.jango.com
-pt.jango.com
-fr.jango.com
-de.jango.com
-static.jango.com
-media.jango.com
-api.jango.com
-ads.jango.com
-
-# Servicios relacionados con streaming multimedia
-*.cdn107.com
-*.spotify.com
-*.scdn.co
-*.spotifycdn.com
-audio-ak-spotify-com.akamaized.net
-forum.501stpathfinders.com
+! Dominios generales streaming radio
+||cdn107.com^
+||radioairplay.com^
+||501stpathfinders.com^
+||emisoras.com.gt^
 
 
