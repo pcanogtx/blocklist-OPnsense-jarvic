@@ -1,65 +1,65 @@
-v10.events.data.microsoft.com 
-#(telemetría de Microsoft).
-zoomus.map.fastly.net 
-#(si deseas restringir Zoom).
-msg.ep.b.tlu.dl.delivery.mp.microsoft.com 
-  #(descargas de Microsoft no esenciales).
-  #beacons.gcp.gvt2.com 
-#(rastro de publicidad de Google).
-sdk-events.inner-active.mobi 
-#(rastreo de publicidad móvil).
-assets.msn.com 
-#(contenido de MSN).
-audio-ak-spotify-com.akamaized.net 
+! telemetria Microsoft
+||v10.events.data.microsoft.com^
+||msg.ep.b.tlu.dl.delivery.mp.microsoft.com^
 
+! zoom (cdn)
+||zoomus.map.fastly.net^
 
-opera
-vpn.opera.com
-api.surfeasy.com
-se.sec-tunnel.com
-opera-mini.net
-proxy.opera-mini.net
-auth.opera.com
-service.opera.com
-api.opera.com
-opera-proxy.net
-surfshield.net
+! google ads / tracking
+||beacons.gcp.gvt2.com^
 
-Eviz camaras en vivo
-devlog.ys7.com
-api.ys7.com
-push.ys7.com
-open.ys7.com
-cloud.ys7.com
-upgrade.ys7.com
-log.ys7.com
-status.ys7.com
-devlog.ys7.com
-*.ys7.com
+! mobile ads tracking
+||sdk-events.inner-active.mobi^
 
+! msn contenido
+||assets.msn.com^
 
-Malvare 
-vekeltaizy.net
-*.vekeltaizy.net
+! spotify cdn especifico
+||audio-ak-spotify-com.akamaized.net^
 
-boot.net.anydesk.com
-chat-e2ee.c10r.facebook.com
-dev.us.hik-connect.com
-router15.teamviewer.com
-chat-e2ee-mini.facebook.com.mshome.net
-gateway.facebook.com.mshome.net
-pull-flv-f65-va01.tiktokcdn.com
+! opera vpn / proxy
+||vpn.opera.com^
+||api.surfeasy.com^
+||se.sec-tunnel.com^
+||opera-mini.net^
+||proxy.opera-mini.net^
+||auth.opera.com^
+||service.opera.com^
+||api.opera.com^
+||opera-proxy.net^
+||surfshield.net^
 
+! hikvision / ezviz (ys7)
+||devlog.ys7.com^
+||api.ys7.com^
+||push.ys7.com^
+||open.ys7.com^
+||cloud.ys7.com^
+||upgrade.ys7.com^
+||log.ys7.com^
+||status.ys7.com^
+||ys7.com^
 
-#notificaciones de facebook tiempo real
-edge-mqtt-fallback.facebook.com
-#facebook notificaciones de chat
-chat-e2ee-mini.facebook.com
+! malware
+||vekeltaizy.net^
 
+! control remoto / sospechoso
+||boot.net.anydesk.com^
+||router15.teamviewer.com^
 
-#enrutamiento de datos a través de Google
-tunnel.googlezip.net
+! facebook realtime / chat
+||chat-e2ee.c10r.facebook.com^
+||chat-e2ee-mini.facebook.com.mshome.net^
+||gateway.facebook.com.mshome.net^
+||edge-mqtt-fallback.facebook.com^
+||chat-e2ee-mini.facebook.com^
 
+! tiktok streaming
+||pull-flv-f65-va01.tiktokcdn.com^
 
-litedev.us.hik-connect.com
+! google tunnel
+||tunnel.googlezip.net^
 
+! hik-connect dev
+||dev.us.hik-connect.com^
+||litedev.us.hik-connect.com^
