@@ -1,70 +1,59 @@
-*.tiktokv.com
-*.tiktokcdn.com
-*.muscdn.com
-*.tiktok.com
+! tiktok
+||tiktokv.com^
+||tiktokcdn.com^
+||muscdn.com^
+||tiktok.com^
 
+! youtube
+||ytimg.com^
+||googlevideo.com^
+||ytimg.l.google.com^
 
+! sitios NZ
+||ngataonga.org.nz^
+||wheelersbooks.co.nz^
 
+! huawei games
+||hihonorcloud.com^
+||hispace.hihonorcloud.com^
 
+! candy crush media
+||midasplayer.cloud^
+||king.com^
 
+! torrent
+||thepiratebay.org^
+||1337x.to^
+||rarbg.to^
+||yts.mx^
+||torrentz2.eu^
+||limetorrents.info^
+||torrentdownloads.me^
+||kickasstorrents.to^
+||extratorrent.cc^
+||torlock.com^
+||zooqle.com^
+||isohunt.to^
+||seedpeer.me^
+||bt-scene.cc^
+||monova.org^
+||skytorrents.to^
+||openbittorrent.com^
+||publicbt.com^
+||demonoid.is^
 
+! camaras en vivo
+||ys7.com^
 
+! musica
+||soundcloud.com^
 
-*.ytimg.com
-*.googlevideo.com
-*.ytimg.l.google.com
+! realtime / multiplayer
+||pusher.com^
+||pusherapp.com^
 
-
-
-
-
-
-*.ngataonga.org.nz
-*.wheelersbooks.co.nz
-
-
-game huawei
-*.hihonorcloud.com
-*.hispace.hihonorcloud.com
-
-media player candy crush
-*.midasplayer.cloud
-*.king.com
-
-torrent
-*.thepiratebay.org
-*.1337x.to
-*.rarbg.to
-*.yts.mx
-*.torrentz2.eu
-*.limetorrents.info
-*.torrentdownloads.me
-*.kickasstorrents.to
-*.extratorrent.cc
-*.torlock.com
-*.zooqle.com
-*.isohunt.to
-*.seedpeer.me
-*.bt-scene.cc
-*.monova.org
-*.skytorrents.to
-*.openbittorrent.com
-*.publicbt.com
-*.demonoid.is
-
-camaras en vivo
-*.ys7.com
-
-Musica
-*.soundcloud.com
-
-chat en tiempo real, juegos multijugadores
-*.pusher.com
-*.pusherapp.com
-
-
-*.opera.com
-*.operavpn.com
-*.surfeasy.com
-
+! vpn / opera
+||opera.com^
+||operavpn.com^
+||surfeasy.com^
 
